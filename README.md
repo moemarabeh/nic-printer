@@ -147,4 +147,9 @@
   - **File monitoring:** Android `FileObserver`
   - **Min SDK:** Android 8.0 (API 26) — matches Sunmi V2 Plus OS
 
+
+
+ ## Screenshots
+
+  ![App Main Screen](./app-main.png)
   ---
